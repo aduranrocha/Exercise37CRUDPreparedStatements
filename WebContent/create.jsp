@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Create Employee</title>
 <link rel="Stylesheet" href="css/bootstrap.min.css">
 <link rel="Stylesheet" href="css/style.css">
 </head>
